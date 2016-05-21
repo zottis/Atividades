@@ -1,0 +1,2 @@
+Descrever e /ou modelar um processo de desenvolvimento de software, identificando no mesmo
+a configuração dos artefatos envolvidos e o gerenciamento de liberação e entrega.
